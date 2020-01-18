@@ -1,0 +1,31 @@
+h1 {
+	color: #f5b3ee;
+}
+
+h3 {
+	text-decoration: underline;
+	font-size: 30px;
+	font-style: italic;
+	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.section-header {
+	text-align: center;
+	background-color: rgb(209, 233, 255);
+	border: 2px solid navy;
+	border-radius: 5px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#profile-picture {
+	border: 2px solid black;
+}
+
+.section {
+	background-color: navy;
+	border: 2px solid rgb(209, 233, 255);
+	color: white;
+	margin: 0 20px 10px 20px;
+	padding: 10px;
+}
